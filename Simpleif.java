@@ -1,3 +1,4 @@
+//wap to print table by using user input
 public class Simpleif {
     public static  void main(String args[])
     {

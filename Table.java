@@ -1,3 +1,4 @@
+//wap to print table by using user input
 import java.util.Scanner;
 
 import javax.security.sasl.SaslException;
