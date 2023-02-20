@@ -12,7 +12,8 @@ public class Ladder {
     {
         System.out.println("a is greater");
     }
-    else{
+    else
+    {
         if(b>a&&c>a);
         {
             System.out.println("b is grater");
