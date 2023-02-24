@@ -9,7 +9,7 @@ public class Typecasting {
         int sum = (int)(67.87f);
         System.out.println(sum);
 
-        // Automatic tpe conversion
+        // Automatic type conversion
         int number = 'c';
         System.out.println(number);
 
